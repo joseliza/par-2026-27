@@ -6,7 +6,7 @@ IES Ciudad Jardín · Departamento de Informática
 
 - **Duración:** 192 horas (6 horas semanales, 32 semanas)
 - **Créditos ECTS:** 12
-- **Profesorado:** _(tu nombre)_
+- **Profesorado:** José Manuel Lizana Jiménez y Vicente Segura Jiménez
 - **Plataformas:** [Cisco Netacad](https://www.netacad.com) · Moodle del centro _(enlace)_
 
 ## 📅 Esta semana

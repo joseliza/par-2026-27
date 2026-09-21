@@ -7,7 +7,7 @@
 
 | Fecha | Sesión | UT | Contenido | Tarea / entrega | Material |
 |-------|:------:|----|-----------|-----------------|----------|
-| _dd/mm_ | 1 | 1.1 | Presentación del módulo y de Netacad | | |
+| Mar 22/09 | 1 | 1.1 | Presentación del profesorado y del módulo. Evaluación inicial (cuestionario, no puntúa) | | |
 | _dd/mm_ | 2 | 1.1 | | | |
 
 ## 2.ª Evaluación · UT 1.5 – 2.2 (54 sesiones)
