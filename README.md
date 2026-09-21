@@ -58,7 +58,10 @@ El módulo prepara para los contenidos de CCNA. Los cursos, prácticas y evaluac
 
 ## ✉️ Contacto
 
-_(Correo del centro, horario de tutoría, canal de dudas.)_
+- José Manuel Lizana Jiménez: joseliza@iesciudadjardin.com
+- Vicente Segura Jiménez: vicentesegurajimenez@iesciudadjardin.com
+
+_(Horario de tutoría, canal de dudas.)_
 
 ---
 
