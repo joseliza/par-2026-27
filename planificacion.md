@@ -4,8 +4,8 @@
 
 | Fecha | Sesión | UT | Contenido | Tarea / entrega | Material |
 |-------|:------:|----|-----------|-----------------|----------|
-| Mar 22/09 | 1 | 1.1 | Presentación del profesorado y del módulo. Evaluación inicial (cuestionario, no puntúa) | | |
-| _dd/mm_ | 2 | 1.1 | | | |
+| Mar 22/09 · 11:45–12:45 | 1 | 1.1 | Presentación del profesorado y del módulo | | |
+| Mar 22/09 · 12:45–13:45 | 2 | 1.1 | Evaluación inicial (cuestionario, no puntúa) | | |
 
 ## 2.ª Evaluación · UT 1.5 – 2.2 (54 sesiones)
 
