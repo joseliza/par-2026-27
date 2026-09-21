@@ -1,0 +1,6 @@
+.DS_Store
+*.pkt~
+*.swp
+
+# Programación didáctica (pendiente la de 2026-27)
+ASIR-1-Programacion*.pdf
