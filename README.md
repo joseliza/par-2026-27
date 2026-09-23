@@ -7,19 +7,19 @@ IES Ciudad Jardín · Departamento de Informática
 - **Duración:** 192 horas (6 horas semanales, 32 semanas)
 - **Créditos ECTS:** 12
 - **Profesorado:** José Manuel Lizana Jiménez y Vicente Segura Jiménez
-- **Plataformas:** [Cisco Netacad](https://www.netacad.com) · Moodle del centro _(enlace)_
-
-## 📅 Esta semana
-
-> _Actualiza esta sección cada semana o enlaza a la fila correspondiente de [`planificacion.md`](planificacion.md)._
-
-| Día | Contenido | Material |
-|-----|-----------|----------|
-| _Lunes_ | _UT 1.1 · …_ | _enlace_ |
+- **Plataformas:** [Cisco Netacad](https://www.netacad.com)
 
 ## 🗂️ Planificación diaria
 
-Consulta el calendario completo en **[planificacion.md](planificacion.md)**: qué se ve cada día, qué hay que entregar y cuándo son las pruebas.
+## 1.ª Evaluación · UT 1.1 – 1.4 (78 sesiones)
+
+| Fecha | Sesión | UT | Contenido | Tarea / entrega | Material |
+|-------|:------:|----|-----------|-----------------|----------|
+| Mar 22/09 · 11:45–12:45 | 1 | 1.1 | Presentación del profesorado y del módulo | | |
+| Mar 22/09 · 12:45–13:45 | 2 | 1.1 | Evaluación inicial (cuestionario, no puntúa) | | |
+| Jue 24/09 · 12:45–13:45 | 3 | 1.1 | Acceso a la plataforma Netacad e invitación al curso CCNA. Introducción a las redes | | |
+| Jue 24/09 · 13:45–14:45 | 4 | 1.1 | Comienzo del módulo 1. Las redes en la actualidad | | |
+
 
 ## 📚 Unidades de trabajo
 
