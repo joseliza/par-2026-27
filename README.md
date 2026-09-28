@@ -21,6 +21,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Jue 24/09 · 13:45–14:45 | 4 | 1.1 | Comienzo del módulo 1. Las redes en la actualidad | | [Presentación mód. 1](/unidades/ut-1.1-conectividad-de-red/ITN_Module_1.pptx) |
 | Vie 25/09 · 08:15–09:15 | 5 | 1.1 | Continuamos hasta el apartado 1.9 | | |
 | Vie 25/09 · 09:15–10:15 | 6 | 1.1 | Presentación y conocimiento de Packet Tracer | | [Descarga de Packet Tracer](https://www.netacad.com/resources/lab-downloads) |
+| Mar 29/09 · 11:45–12:45 | 7 | 1.1 | Terminamos módulo 1 | Autoevaluación del módulo 1 |  |
+| Mar 29/09 · 12:45–13:45 | 8 | 1.1 | Comenzamos el módulo 2 | |  |
 
 
 ## 📚 Unidades de trabajo
