@@ -23,8 +23,10 @@ IES Ciudad Jardín · Departamento de Informática
 | Vie 25/09 · 09:15–10:15 | 6 | 1.1 | Presentación y conocimiento de Packet Tracer | | [Descarga de Packet Tracer](https://www.netacad.com/resources/lab-downloads) |
 | Mar 29/09 · 11:45–12:45 | 7 | 1.1 | Terminamos módulo 1 | Autoevaluación del módulo 1 |  |
 | Mar 29/09 · 12:45–13:45 | 8 | 1.1 | Comenzamos el módulo 2 | | [Presentación mód. 2](/unidades/ut-1.1-conectividad-de-red/ITN_Module_2_alumnado.pdf) |
-| Jue 01/10 · 12:45–13:45 | 9 | 1.1 | Módulo 2 | |  |
-| Jue 01/10 · 13:45–14:45 | 10 | 1.1 | Módulo 2 | |  |
+| Jue 01/10 · 12:45–13:45 | 9 | 1.1 | Módulo 2.1 | |  |
+| Jue 01/10 · 13:45–14:45 | 10 | 1.1 | Módulo 2.2 | |  |
+| Vie 02/10 · 08:15–09:15 | 11 | 1.1 | Módulo 2.3 | Packet Tracer 2.3.7 (en parejas) |  |
+| Vie 02/10 · 09:15–10:15 | 12 | 1.1 | Módulo 2.4 | Ejercicio 2.4.7 (verificador de sintaxis) |  |
 
 
 ## 📚 Unidades de trabajo
