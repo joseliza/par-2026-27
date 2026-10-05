@@ -27,6 +27,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Jue 01/10 · 13:45–14:45 | 10 | 1.1 | Módulo 2.2 | |  |
 | Vie 02/10 · 08:15–09:15 | 11 | 1.1 | Módulo 2.3 | Packet Tracer 2.3.7 (en parejas) |  |
 | Vie 02/10 · 09:15–10:15 | 12 | 1.1 | Módulo 2.4 | Ejercicio 2.4.7 (verificador de sintaxis) |  |
+| Mar 06/10 · 11:45–12:45 | 13 | 1.1 | Módulo 2.4 | Ejercicio 2.4.7 (verificador de sintaxis) |  |
+| Mar 06/10 · 12:45–13:45 | 14 | 1.1 | Módulo 2.5 | Hacemos ejercicio Packet Tracer 2.5.5 en clase |  |
 
 
 ## 📚 Unidades de trabajo
