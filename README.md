@@ -33,6 +33,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Jue 08/10 · 13:45–14:45 | 16 | 1.1 | Vemos hasta el módulo 2.7 | Comenzáis el ejercicio de Packet Tracer 2.7.6
 | Vie 09/10 · 08:15–09:15 | 17 | 1.1 | Módulo 2.7 | Explico configuración de IP en los dispositivos |  |
 | Vie 09/10 · 09:15–10:15 | 18 | 1.1 | Módulo 2.7 | Seguís ejercicio de Packet Tracer 2.7.6, del que debéis entregar el *.pka |  |
+| Mar 13/10 · 11:45–12:45 | 19 | 1.1 | Módulo 2.8 | Vemos los vídeos que nos muestran cómo verificar la conectividad entre dispositivos  |  |
+| Mar 13/10 · 12:45–13:45 | 20 | 1.1 | Módulo 2.9 | Hacéis el ejercicio de Packet Tracer 2.9.1 (Que se entraga en la plataforma Netacad en esta sesión) y la prueba de autoevaluación 2.9.4  |  |
 
 
 ## 📚 Unidades de trabajo
