@@ -35,6 +35,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Vie 09/10 · 09:15–10:15 | 18 | 1.1 | Módulo 2.7 | Seguís ejercicio de Packet Tracer 2.7.6, del que debéis entregar el *.pka |  |
 | Mar 13/10 · 11:45–12:45 | 19 | 1.1 | Módulo 2.8 | Vemos los vídeos que nos muestran cómo verificar la conectividad entre dispositivos  |  |
 | Mar 13/10 · 12:45–13:45 | 20 | 1.1 | Módulo 2.9 | Hacéis el ejercicio de Packet Tracer 2.9.1 (Que se entrega en la plataforma Netacad en esta sesión) y la prueba de autoevaluación 2.9.4  |  |
+| Jue 15/10 · 12:45–13:45 | 21 | 1.1 | Módulo 2.9.2 | Práctica de laboratorio. Configuración básica de switches y terminales | [Lab-Configuración básica de switches y terminales](/unidades/ut-1.1-conectividad-de-red/Lab-Configuración%20básica%20de%20switches%20y%20terminales.pdf) |
+| Jue 15/10 · 13:45–14:45 | 22 | 1.1 | Módulo 2.9.2 | Práctica de laboratorio. Configuración básica de switches y terminales | |  |
 
 
 ## 📚 Unidades de trabajo
