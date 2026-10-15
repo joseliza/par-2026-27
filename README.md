@@ -15,7 +15,7 @@ IES Ciudad Jardín · Departamento de Informática
 
 | Fecha | Sesión | UT | Contenido | Tarea / entrega | Material |
 |-------|:------:|----|-----------|-----------------|----------|
-| Mar 22/09 · 11:45–12:45 | 1 | 1.1 | Presentación del profesorado y del módulo | | |
+| Mar 22/09 . 11:45-12:45 | 1 | 1.1 | Presentación del profesorado y del módulo | | |
 | Mar 22/09 · 12:45–13:45 | 2 | 1.1 | Evaluación inicial (cuestionario, no puntúa) | | |
 | Jue 24/09 · 12:45–13:45 | 3 | 1.1 | Acceso a la plataforma Netacad e invitación al curso CCNA. Introducción a las redes | | |
 | Jue 24/09 · 13:45–14:45 | 4 | 1.1 | Comienzo del módulo 1. Las redes en la actualidad | | [Presentación mód. 1](/unidades/ut-1.1-conectividad-de-red/ITN_Module_1_alumnado.pdf) |
@@ -37,6 +37,11 @@ IES Ciudad Jardín · Departamento de Informática
 | Mar 13/10 · 12:45–13:45 | 20 | 1.1 | Módulo 2.9 | Hacéis el ejercicio de Packet Tracer 2.9.1 (Que se entrega en la plataforma Netacad en esta sesión) y la prueba de autoevaluación 2.9.4  |  |
 | Jue 15/10 · 12:45–13:45 | 21 | 1.1 | Módulo 2.9.2 | Práctica de laboratorio. Configuración básica de switches y terminales | [Lab-Configuración básica de switches y terminales](/unidades/ut-1.1-conectividad-de-red/Lab-Configuración%20básica%20de%20switches%20y%20terminales.pdf) |
 | Jue 15/10 · 13:45–14:45 | 22 | 1.1 | Módulo 2.9.2 | Práctica de laboratorio. Configuración básica de switches y terminales | |  |
+
+| Fecha | Sesión | UT | Contenido | Tarea / entrega | Material |
+|-------|:------:|----|-----------|-----------------|----------|
+| Vie 16/10 · 08:15–09:15 | 1 | 1.2 | Comenzamos el módulo 3 | Los primeros 30' los dedicáis a hacer un análisis de cómo ha transcurrido la práctica de laboratorio de ayer y entregáis documento |  |
+| Vie 16/10 · 09:15–10:15 | 2 | 1.2 | Módulo 3 |  |  |
 
 
 ## 📚 Unidades de trabajo
