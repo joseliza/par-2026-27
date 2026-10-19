@@ -42,6 +42,8 @@ IES Ciudad Jardín · Departamento de Informática
 |-------|:------:|----|-----------|-----------------|----------|
 | Vie 16/10 · 08:15–09:15 | 1 | 1.2 | Comenzamos el módulo 3 | Los primeros 30' los dedicáis a hacer un análisis de cómo ha transcurrido la práctica de laboratorio de ayer y entregáis documento | [Presentación mód. 3](/unidades/ut-1.2-ethernet/ITN_Module_3.pdf) |
 | Vie 16/10 · 09:15–10:15 | 2 | 1.2 | Módulo 3 |  |  |
+| Mar 20/10 · 11:45–12:45 | 3 | 1.1 | Módulo 3 |  |  |
+| Mar 20/10 · 12:45–13:45 | 4 | 1.1 | Módulo 3 |  |  |
 
 
 ## 📚 Unidades de trabajo
