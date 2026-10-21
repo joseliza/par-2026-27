@@ -44,6 +44,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Vie 16/10 · 09:15–10:15 | 2 | 1.2 | Módulo 3 |  |  |
 | Mar 20/10 · 11:45–12:45 | 3 | 1.1 | Módulo 3 |  |  |
 | Mar 20/10 · 12:45–13:45 | 4 | 1.1 | Módulo 3 |  |  |
+| Jue 22/10 · 12:45–13:45 | 5 | 1.1 | Módulo 3.3.5 Proceso de comunicación TCP | Hacemos práctica de laboratorio con captura de Wireshark |  |
+| Jue 22/10 · 13:45–14:45 | 6 | 1.1 | Módulo 3.5 Modelos de referencia | Si da tiempo, ejercicio de Packet Tracer 3.5.5  |  |
 
 
 ## 📚 Unidades de trabajo
