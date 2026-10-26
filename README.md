@@ -47,7 +47,9 @@ IES Ciudad Jardín · Departamento de Informática
 | Jue 22/10 · 12:45–13:45 | 5 | 1.2 | Módulo 3.3.5 Proceso de comunicación TCP | Hacemos práctica de laboratorio con captura de Wireshark | [Puedes probarlo en casa](https://github.com/joseliza/lab-capas-tcpip) |
 | Jue 22/10 · 13:45–14:45 | 6 | 1.2 | Módulo 3.5 Modelos de referencia |   |  |
 | Vie 23/10 · 08:15–09:15 | 7 | 1.2 | Módulo 3.5 Modelos de referencia | Podéis hacer el ejercicio de Packet Tracer 3.5.5 en casa, pero no es evaluable. Muestra cómo simular la captura de frames que podéis hacer con Wireshark  |  |
-| Vie 23/10 · 09:15–10:15 | 8 | 1.2 | Módulo 3.7. Acceso a los datos  | 3.7.10 Laboratorio - Uso de Wireshark para ver el tráfico de la red (en parejas, se evalúa mediante exposición oral al profesor)  |  |
+| Vie 23/10 · 09:15–10:15 | 8 | 1.2 | Módulo 3.7. Acceso a los datos  |   |  |
+| Mar 27/10 · 11:45–12:45 | 9 | 1.2 | Módulo 3  | 3.7.10 Laboratorio - Uso de Wireshark para ver el tráfico de la red (en parejas, se evalúa mediante exposición oral al profesor)  |  |
+| Mar 27/10 · 13:45–14:45 | 10 | 1.2 | Módulo 3  | 3.7.10 Laboratorio - Uso de Wireshark para ver el tráfico de la red (en parejas, se evalúa mediante exposición oral al profesor)  |  |
 
 
 ## 📚 Unidades de trabajo
