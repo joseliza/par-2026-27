@@ -52,6 +52,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Mar 27/10 · 13:45–14:45 | 10 | 1.2 | Módulo 4. La capa física  | Comenzamos la teoría de la capa física  | [Presentación mód. 4](/unidades/ut-1.2-ethernet/ITN_Module_4_alumnado.pdf) |
 | Jue 29/10 · 12:45–13:45 | 11 | 1.2 | Módulo 4.2.3 Codificación | |  |
 | Jue 29/10 · 13:45–14:45 | 12 | 1.2 | Módulo 4.3. Cableado de cobre |   |  |
+| Vie 30/10 · 08:15–09:15 | 13 | 1.2 | Módulo 4.4. Cableado UTP | |  |
+| Vie 30/10 · 09:15–10:15 | 14 | 1.2 | Módulo 4.5. Cableado de fibra óptica |   |  |
 
 
 ## 📚 Unidades de trabajo
