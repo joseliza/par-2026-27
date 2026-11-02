@@ -54,6 +54,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Jue 29/10 · 13:45–14:45 | 12 | 1.2 | Módulo 4.3. Cableado de cobre |   |  |
 | Vie 30/10 · 08:15–09:15 | 13 | 1.2 | Módulo 4.4. Cableado UTP | |  |
 | Vie 30/10 · 09:15–10:15 | 14 | 1.2 | Módulo 4.5. Cableado de fibra óptica |   |  |
+| Mar 03/11 · 11:45–12:45 | 15 | 1.2 | Módulo 4.5.4 Conectores de fibra óptica | |  |
+| Mar 03/11 · 12:45–13:45 | 16 | 1.2 | Módulo 4.6. Medios inalámbricos |   |  |
 
 
 ## 📚 Unidades de trabajo
