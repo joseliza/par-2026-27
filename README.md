@@ -56,6 +56,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Vie 30/10 · 09:15–10:15 | 14 | 1.2 | Módulo 4.5. Cableado de fibra óptica |   |  |
 | Mar 03/11 · 11:45–12:45 | 15 | 1.2 | Módulo 4.5.4 Conectores de fibra óptica | |  |
 | Mar 03/11 · 12:45–13:45 | 16 | 1.2 | Módulo 4.6. Medios inalámbricos |   |  |
+| Jue 05/11 · 12:45–13:45 | 17 | 1.2 | Módulo 4 | Taller. Crimpado de latiguillo UTP |  |
+| Jue 05/11 · 13:45–14:45 | 18 | 1.2 | Módulo 4 | Taller. Crimpado de latiguillo UTP  |  |
 
 
 ## 📚 Unidades de trabajo
