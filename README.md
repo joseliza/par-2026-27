@@ -58,6 +58,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Mar 03/11 · 12:45–13:45 | 16 | 1.2 | Módulo 4.6. Medios inalámbricos |   |  |
 | Jue 05/11 · 12:45–13:45 | 17 | 1.2 | Módulo 4 | Taller. Crimpado de latiguillo UTP |  |
 | Jue 05/11 · 13:45–14:45 | 18 | 1.2 | Módulo 4 | Taller. Crimpado de latiguillo UTP  |  |
+| Vie 06/11 · 08:15–09:15 | - | 1.2 | Simulacro examen módulos 1-3 |  |  |
+| Vie 06/11 · 09:15–10:15 | 19 | 1.4 | Módulos 5.1.6, 5.1.9 y 5.2 (Sistema Hexadecimal) | Ejercicios de conversiones a decimal y a binario  |  |
 
 
 ## 📚 Unidades de trabajo
