@@ -62,6 +62,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Vie 06/11 · 09:15–10:15 | 19 | 1.2 | Módulos 5.1.6, 5.1.9 y 5.2 (Sistema Hexadecimal) | Ejercicios de conversiones a decimal y a binario  |  |
 | Mar 10/11 · 11:45–12:45 | 20 | 1.2 | Os doy el resultado del simulacro de examen del pasado viernes y comenzamos el módulo 6. Capa de enlace de datos: propósito, topologías y trama |  | [Presentación mód. 6](/unidades/ut-1.2-ethernet/ITN_Module_6_alumnado.pdf) |
 | Mar 10/11 · 12:45–13:45 | 21 | 1.2 | Módulo 6 |
+| Jue 12/11 · 12:45–13:45 | 22 | 1.1 | Examen en línea de los módulos 1-3 en Netacad |  |  |
+| Jue 12/11 · 13:45–14:45 | 23 | 1.2 | Terminamos Módulo 6 y presento Módulo 7. Switching Ethernet |  | [Presentación mód. 6](/unidades/ut-1.2-ethernet/ITN_Module_7_alumnado.pdf) |
 
 
 ## 📚 Unidades de trabajo
