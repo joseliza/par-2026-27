@@ -63,7 +63,9 @@ IES Ciudad Jardín · Departamento de Informática
 | Mar 10/11 · 11:45–12:45 | 20 | 1.2 | Os doy el resultado del simulacro de examen del pasado viernes y comenzamos el módulo 6. Capa de enlace de datos: propósito, topologías y trama |  | [Presentación mód. 6](/unidades/ut-1.2-ethernet/ITN_Module_6_alumnado.pdf) |
 | Mar 10/11 · 12:45–13:45 | 21 | 1.2 | Módulo 6 |
 | Jue 12/11 · 12:45–13:45 | 22 | 1.1 | Examen en línea de los módulos 1-3 en Netacad |  |  |
-| Jue 12/11 · 13:45–14:45 | 23 | 1.2 | Terminamos Módulo 6 y presento Módulo 7. Switching Ethernet |  | [Presentación mód. 7](/unidades/ut-1.2-ethernet/ITN_Module_7_alumnado.pdf) |
+| Jue 12/11 · 13:45–14:45 | 23 | 1.2 |  | Taller. Seguimos con crimpado de latiguillo UTP | |
+| Vie 13/11 · 08:15–09:15 | 24 | 1.2 |  | Taller. Seguimos con crimpado de latiguillo UTP y presento ponchado de keynstones |  |
+| Vie 13/11 · 09:15–10:15 | 25 | 1.2 |  | Taller. Seguimos con crimpado de latiguillo UTP y presento ponchado de keynstones |  |
 
 
 ## 📚 Unidades de trabajo
