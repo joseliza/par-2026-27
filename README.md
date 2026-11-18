@@ -67,6 +67,9 @@ IES Ciudad Jardín · Departamento de Informática
 | Vie 13/11 · 08:15–09:15 | 24 | 1.2 |  | Taller. Seguimos con crimpado de latiguillo UTP y presento ponchado de keynstones |  |
 | Vie 13/11 · 09:15–10:15 | 25 | 1.2 |  | Taller. Seguimos con crimpado de latiguillo UTP y presento ponchado de keynstones |  |
 | Mar 17/11 · 12:45–13:45 | 26 | 1.2 | Módulo 7. Trama Ethernet y dirección MAC |  | [Presentación mód. 7](/unidades/ut-1.2-ethernet/ITN_Module_7_alumnado.pdf) |
+| Jue 19/11 · 12:45–13:45 | 27 | 1.2 |  | Taller. Seguimos con crimpado de latiguillo UTP y ponchado de keynstones |  |
+| Jue 19/11 · 13:45–14:45 | 28 | 1.2 |  | Taller. Seguimos con crimpado de latiguillo UTP y ponchado de keynstones | |
+
 
 ## 📚 Unidades de trabajo
 
