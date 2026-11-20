@@ -7,7 +7,7 @@ IES Ciudad Jardín · Departamento de Informática
 - **Duración:** 192 horas (6 horas semanales): 174 h en el centro y 18 h en la fase de formación en empresa (del 11 de enero al 29 de enero)
 - **Profesorado:** José Manuel Lizana Jiménez
 
-- **Programación didáctica:** [Versión aprobada (PDF)](/recursos/Programacion_0370_2026-2027.pdf) · aprobada el 16/11/2026
+- **Programación didáctica:** [Versión aprobada (PDF)](/programacion/Programacion_0370_2026-2027.pdf) · aprobada el 16/11/2026
 
 ## 🗂️ Planificación diaria
 
