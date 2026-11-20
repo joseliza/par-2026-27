@@ -11,7 +11,7 @@ IES Ciudad Jardín · Departamento de Informática
 
 ## 🗂️ Planificación diaria
 
-### 1.ª Evaluación · UT 1.1 – 1.4 (78 sesiones)
+### 1.ª Evaluación · UT 1 – 4 (78 sesiones)
 
 | Fecha | Sesión | UT | Contenido | Tarea / entrega | Material |
 |-------|:------:|----|-----------|-----------------|----------|
