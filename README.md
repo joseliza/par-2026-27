@@ -63,10 +63,14 @@ IES Ciudad Jardín · Departamento de Informática
 | Jue 12/11 · 13:45‑14:45 | 46 | 2 |  | Taller. Seguimos con crimpado de latiguillo UTP |  |
 | Vie 13/11 · 08:15‑09:15 | 47 | 2 |  | Taller. Seguimos con crimpado de latiguillo UTP y presento ponchado de keynstones |  |
 | Vie 13/11 · 09:15‑10:15 | 48 | 2 |  | Taller. Seguimos con crimpado de latiguillo UTP y presento ponchado de keynstones |  |
-| Mar 17/11 · 11:45‑12:45 | 49 |  |  |  |  |
+| Mar 17/11 · 11:45‑12:45 | 49 | 2 |  |  |  |
 | Mar 17/11 · 12:45‑13:45 | 50 | 2 | Módulo 7. Trama Ethernet y dirección MAC |  | [Presentación mód. 7](/unidades/ut-1.2-ethernet/ITN_Module_7_alumnado.pdf) |
 | Jue 19/11 · 12:45‑13:45 | 51 | 2 |  | Taller. Seguimos con crimpado de latiguillo UTP y ponchado de keynstones |  |
 | Jue 19/11 · 13:45‑14:45 | 52 | 2 |  | Taller. Seguimos con crimpado de latiguillo UTP y ponchado de keynstones |  |
+| Vie 20/11 · 08:15‑09:15 | 53 | 2 | Huelga de estudiantes |  |  |
+| Vie 20/11 · 09:15‑10:15 | 54 | 2 | Huelga de estudiantes |  |  |
+| Mar 24/11 · 11:45‑12:45 | 55 | 2 | Módulos 7.2.3 a 7.2.6. Repasamos la importancia de las direcciones MAC en la capa de enlace y repasamos las direcciones MAC de unicast, broadcast y multicast |  |  |
+| Mar 24/11 · 12:45‑13:45 | 56 | 2 | Módulo 7.3. Estudiamos cómo un switch utiliza estas direcciones (MAC) para reenviar o descartar tramas a otros dispositivos de una red |  |  |
 
 ## 📚 Unidades de trabajo
 
@@ -91,10 +95,6 @@ IES Ciudad Jardín · Departamento de Informática
 | | | **Total** | **192** | |
 
 _Estado: ✅ terminada · 🔄 en curso · ⏳ pendiente. Las sesiones de cada unidad son una previsión y pueden variar durante el curso._
-
-Las sesiones se cuentan según la programación; el módulo 3 se impartió como UT 1.2 y pertenece a la UT 1.1.
-
-Cada unidad tiene su carpeta en [`unidades/`](unidades/) con apuntes, prácticas y enlaces.
 
 ## 📝 Evaluación
 
