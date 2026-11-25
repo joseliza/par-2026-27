@@ -71,6 +71,8 @@ IES Ciudad Jardín · Departamento de Informática
 | Vie 20/11 · 09:15‑10:15 | 54 | 2 | Huelga de estudiantes |  |  |
 | Mar 24/11 · 11:45‑12:45 | 55 | 2 | Módulos 7.2.3 a 7.2.6. Repasamos la importancia de las direcciones MAC en la capa de enlace y repasamos las direcciones MAC de unicast, broadcast y multicast |  |  |
 | Mar 24/11 · 12:45‑13:45 | 56 | 2 | Módulo 7.3. Estudiamos cómo un switch utiliza estas direcciones (MAC) para reenviar o descartar tramas a otros dispositivos de una red |  |  |
+| Jue 26/11 · 12:45‑13:45 | 57 | 2 | Módulo 4 | Taller. Seguimos con crimpado de latiguillo UTP y ponchado de keynstones |  |
+| Jue 26/11 · 13:45‑14:45 | 58 | 2 | Módulo 7.3. Estudiamos cómo un switch utiliza estas direcciones (MAC) para reenviar o descartar tramas a otros dispositivos de una red |  |  |
 
 ## 📚 Unidades de trabajo
 
