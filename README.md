@@ -73,13 +73,15 @@ IES Ciudad Jardín · Departamento de Informática
 | Mar 24/11 · 12:45‑13:45 | 56 | 2 | Módulo 7.3. Estudiamos cómo un switch utiliza estas direcciones (MAC) para reenviar o descartar tramas a otros dispositivos de una red |  |  |
 | Jue 26/11 · 12:45‑13:45 | 57 | 2 | Módulo 4 | Taller. Seguimos con crimpado de latiguillo UTP y ponchado de keynstones |  |
 | Jue 26/11 · 13:45‑14:45 | 58 | 2 | Módulo 7.3. Estudiamos cómo un switch utiliza estas direcciones (MAC) para reenviar o descartar tramas a otros dispositivos de una red |  |  |
+| Vie 27/11 · 08:15‑09:15 | 59 | 2 | Módulo 7. Vemos vídeo 7.3.5 - Envío de una trama al gateway predeterminado y hacéis Actividad 7.3.6 ¡El Switch! |  |  |
+| Vie 27/11 · 09:15‑10:15 | 60 | 2 | Módulo 7 | Práctica 7.3.7 – Ver la tabla de direcciones MAC del switch (en Packet Tracer). Entregáis el archivo convertido a formato *.pdf | [Practica_7.3.7_Tabla_MAC_PacketTracer](/unidades/ut-1.2-ethernet/Practica_7.3.7_Tabla_MAC_PacketTracer.odt) |
 
 ## 📚 Unidades de trabajo
 
 | Ev. | UT | Título | Sesiones | Estado |
 |-----|----|--------|:--------:|:------:|
 | 1.ª | 1 | Conectividad de red y comunicaciones | 18 | ✅ |
-| 1.ª | 2 | Conceptos de Ethernet | 12 | 🔄 |
+| 1.ª | 2 | Conceptos de Ethernet | 35 | 🔄 |
 | 1.ª | 3 | Comunicación entre redes | 12 | ⏳ |
 | 1.ª | 4 | Direccionamiento IP | 24 | ⏳ |
 | 2.ª | 5 | Comunicaciones de aplicaciones de red | 8 | ⏳ |
